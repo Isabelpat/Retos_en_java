@@ -27,17 +27,18 @@ Este repositorio contiene ejemplos prácticos que aplican la teoría básica de 
 
 ## 🗂️ Tabla de Contenido de Retos
 
-1. 💳 [Cajero automático](#cajero-automático)  
-2. 📄 [Comparación declaración de impuestos](#comparación-declaración-de-impuestos)  
-3. 🏥 [Compra en farmacia con descuento](#compra-en-farmacia-con-descuento)  
-4. 🎫 [Registro de entradas a conciertos](#registro-de-entradas-a-conciertos)  
+1. 💳 [Cajero automático](#cajero_automatico)  
+2. 📄 [Comparación declaración de impuestos](#comparación_declaración_impuestos)  
+3. 🏥 [Compra en farmacia con descuento](#compra-en-farmacia)  
+4. 🎫 [Registro de entradas a conciertos](#registro-de-entradas-conciertos)  
 5. 🧾 [Facturación con RFC](#facturación-con-rfc)  
-6. 📊 [Comparación de facturación con y sin RFC](#comparación-de-facturación-con-y-sin-rfc)  
+6. 📊 [Comparación de facturación con y sin RFC](#registro_comparación_factura)  
 7. ✈️ [Reserva de vuelo](#reserva-de-vuelo)  
-8. 💰 [Sistema de pagos - unidad de emergencias](#sistema-de-pagos---unidad-de-emergencias)  
-9. 🩺 [Registro de pacientes](#registro-de-pacientes)  
+8. 💰 [Unidad de emergencias](#unidades-de-emergencia)  
+9. 🩺 [Registro de pacientes](#Reto_registro-de-pacientes)
+10. 💰[Sistema de pago](#sistema-de-pagos)
 
-> *(Agrega aquí anclas internas en los títulos de cada sección del código si quieres que sean navegables directamente en GitHub.)*
+
 
 ---
 
