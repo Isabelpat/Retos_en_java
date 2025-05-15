@@ -27,9 +27,9 @@ Este repositorio contiene ejemplos prácticos que aplican la teoría básica de 
 
 ## 🗂️ Tabla de Contenido de Retos
 
-1. 💳 [Cajero automático](#cajero_automatico)  
-2. 📄 [Comparación declaración de impuestos](#comparación_declaración_impuestos)  
-3. 🏥 [Compra en farmacia con descuento](#compra-en-farmacia)  
+1. 💳 [cajero_automático](#cajero_automatico)  
+2. 📄 [comparación_declaración_impuestos](#comparación_declaración_impuestos)  
+3. 🏥 [compra en farmacia](#compra-en-farmacia)  
 4. 🎫 [Registro de entradas a conciertos](#registro-de-entradas-conciertos)  
 5. 🧾 [Facturación con RFC](#facturación-con-rfc)  
 6. 📊 [Comparación de facturación con y sin RFC](#registro_comparación_factura)  
